@@ -1,0 +1,53 @@
+body {
+	font-family: 'Architects Daughter', cursive;
+	
+}
+
+/* Header */
+
+#header-nav {
+	background-color: #3d3d3d;
+}
+
+#logo {
+	color: #fff;
+	padding: 20px 15px; 
+	overflow: none;
+}
+
+.navbar-dark .navbar-toggler {
+	color: #fff;
+	border-color: #fff;
+}
+
+
+
+
+/* Our Menu */
+
+.text-center {
+	margin: 15px 15px;
+}
+
+.menu {
+	background-color: #3d3d3d;
+	color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
